@@ -18,6 +18,18 @@
   <img src="https://img.shields.io/badge/Bootstrap-e7b0ff?style=flat&logo=Bootstrap&logoColor=white"/>
 </p>
 
+<h3 align="center">✨ Tools ✨</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sublime Text-d7fffc?style=flat&logo=Sublime Text&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-c3d6fd?style=flat&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-e7b0ff?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-ffd7cc?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-e1fae2?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-ffeccc?style=flat&logo=Android Studio&logoColor=white"/>
+  
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Z0ro0&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro0&layout=compact">
