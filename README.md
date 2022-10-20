@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Android Studio-ffeccc?style=flat&logo=Android Studio&logoColor=white"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Z0ro0&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro0&layout=compact">
 </p>
