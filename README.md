@@ -16,3 +16,6 @@
   <img src="https://img.shields.io/badge/MySQL-fcffb0?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-e7b0ff?style=flat&logo=Bootstrap&logoColor=white"/>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro0&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Z0ro0&show_icons=true">
