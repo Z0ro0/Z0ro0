@@ -1,5 +1,6 @@
+<p align="center">
 <img src = "https://capsule-render.vercel.app/api?type=wave&color=e1fafa&height=300&section=header&text=Gaeul's%20Github&fontSize=90"/>
-
+</p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
@@ -17,5 +18,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-e7b0ff?style=flat&logo=Bootstrap&logoColor=white"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro0&layout=compact">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Z0ro0&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro0&layout=compact">
+</p>
