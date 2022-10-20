@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-ffd7cc?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-e1fae2?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-ffeccc?style=flat&logo=Android Studio&logoColor=white"/>
-  
 </p>
 
 <p align="center">
