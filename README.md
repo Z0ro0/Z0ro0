@@ -30,6 +30,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Z0ro0&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro0&layout=compact">
 </p>
